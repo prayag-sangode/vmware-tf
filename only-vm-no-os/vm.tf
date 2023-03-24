@@ -58,7 +58,7 @@ resource "vsphere_virtual_machine" "vm" {
     label            = var.vm_disk_label
     #size             = 20
     size             = var.vm_disk_size
-    eagerly_scrub    = false
-    thin_provisioned = true
+    #eagerly_scrub    = false
+    #thin_provisioned = false
   }
 }
