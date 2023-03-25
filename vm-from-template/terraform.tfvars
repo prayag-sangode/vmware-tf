@@ -1,7 +1,7 @@
 vsphere_vcenter   = "192.168.200.27"
 vsphere_server    = "192.168.200.27"
 vsphere_user      = "Administrator@vsphere.local"
-vsphere_password  = "T$!n@123"
+vsphere_password  = ""
 vsphere_datastore = "DS4200-2"
 vsphere_cluster   = "CAS"
 vsphere_network   = "VM Network"
